@@ -1,0 +1,4 @@
+[
+  { "id": "FUND1", "name": "First Fund", "price": 100, "brokerageAmount": 25 },
+  { "id": "FUND2", "name": "Second Fund", "price": 100, "brokerageRate": 0.01 }
+]
